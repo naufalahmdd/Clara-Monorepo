@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10",
+    "@workspace/typescript-config": "workspace:*",
     "@tailwindcss/vite": "^4",
     "@types/node": "^24",
     "@types/react": "^19",
